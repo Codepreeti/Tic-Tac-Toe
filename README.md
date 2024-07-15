@@ -5,9 +5,9 @@ Welcome to my Tic Tac Toe game project! As a tech enthusiast, I have designed an
 This Tic Tac Toe game is a simple yet engaging web application where two players can compete against each other. The game board is dynamically generated, and the game logic is implemented using JavaScript to handle player moves, check for wins, and detect draws.
 
 **Features**
-_Responsive Design_: The game board is fully responsive and adapts to different screen sizes.
-_Interactive Gameplay_: Players can click on the cells to make their moves, with real-time updates and win/draw detection.
-_Clean and Simple UI_: A user-friendly interface created with CSS for an enjoyable gaming experience.
+1. Responsive Design: The game board is fully responsive and adapts to different screen sizes.
+2. Interactive Gameplay: Players can click on the cells to make their moves, with real-time updates and win/draw detection.
+3. Clean and Simple UI: A user-friendly interface created with CSS for an enjoyable gaming experience.
 
 **Technologies Used**
 HTML: For structuring the game board and elements.
